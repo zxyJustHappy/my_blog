@@ -1,0 +1,24 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "this is blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyJustHappy/my_blog.git"
+  },
+  "author": "dellzhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyJustHappy/my_blog/issues"
+  },
+  "homepage": "https://github.com/zxyJustHappy/my_blog#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "svg-captcha": "^1.3.12"
+  }
+}
