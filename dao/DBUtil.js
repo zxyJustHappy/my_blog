@@ -5,7 +5,7 @@ function createConnection() {
         host: "172.168.1.126",
         port: "3306",
         user: "root",
-        password: "123456",
+        password: "192920zxy",
         database: "my_blog"
     });
     return connection;
